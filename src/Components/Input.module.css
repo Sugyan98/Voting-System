@@ -1,0 +1,13 @@
+.Form,
+label {
+  margin-right: 4px;
+}
+.Form,
+input {
+  margin-right: 4px;
+}
+
+.Form,
+button {
+  margin: 0px 5px;
+}

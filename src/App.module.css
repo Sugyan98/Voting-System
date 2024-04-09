@@ -1,0 +1,11 @@
+.Heading {
+  margin: auto;
+  padding: 1%;
+  width: 50%;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.App {
+  padding: 0px 2%;
+}
